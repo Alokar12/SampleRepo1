@@ -1,0 +1,85 @@
+Process Builder 
+
+ 
+
+When it comes to managing customer databases, Salesforce CRM has always been a top choice for small, medium, and large businesses. With its unique features, Salesforce has helped business organizations' sales teams by saving them time and energy. 
+
+  
+
+The fact that Salesforce offers its client organizations a high degree of automation is one of its key advantages. You can use Salesforce's Process Builder product to perform this automation. Salesforce developers utilize it to automate particular business activities, including email notifications, record updates, and any other job they want to delegate in accordance with client needs. 
+
+ 
+
+Salesforce workflow rules are basically extended in Process Builder, which has a number of capabilities. As opposed to employing many workflow rules, this tool allows you to design an entire process on a single platform. Process Builder Salesforce has a point-and-click interface as its foundation. The business process is automated without the developer writing a single line of code thanks to the use of a Salesforce object (custom or standard) and a corresponding action. 
+
+  
+
+ 
+
+Actions in Process Builder 
+
+ 
+
+Process Builder is a tool that also aids in determining the sequence in which you want particular operations to be carried out or in assessing the requirements for a record. A few of the main operations connected to the Process Builder interface are listed below: 
+
+ 
+
+Record Creation - This action is used to create particular Salesforce records and include the required fields. 
+
+Updating Records - This record assists you in updating the records you've already made, either by manually inputting the records or by using data from related records. 
+
+Chatter Posting - This action makes it easier for users to share important information by allowing them to post on the interactive Salesforce Chatter platform. 
+
+Quick Action - Using the Salesforce platform's global objects or actions to find the relevant records is made easier with the help of this action. 
+
+Launching The Flow - This action is used to start or start a flow from within your process in order to automate several activities. 
+
+Submission of Records for Approval — This action only enables you to submit the record that initiated the process; you cannot submit any other record.  
+
+Triggering Apex Code - Using this action, you can call or invoke an Apex code that has already been placed into the Salesforce platform. 
+
+Initiating another process - This step will assist you in activating another process. 
+
+ 
+
+Components of Process Builder 
+
+ 
+
+A trigger, at least one criteria node, and an action are the three main elements a developer must deal with in order to automate a business process (at least one). Developers have the option of configuring required activities instantly or scheduling them to be carried out at a specific time. The three parts are succinctly outlined below: 
+
+  
+
+Trigger 
+
+This Process Builder component aids in determining when a user should execute a process. When processes are used to update records, the trigger will identify the object and any modifications that need to be handled by the process in question. 
+
+ 
+
+Criteria 
+
+This Process Builder component aids in determining whether or not you ought to carry out particular steps. As a process only receives one trigger, developers have the possibility of adding additional criteria nodes. Every node decides whether a process should carry out particular activities. 
+
+  
+
+Action 
+
+This is the part of the Process Builder that deals with specific actions that are carried out after a criteria node determines that an action is true. The possibility to schedule specific actions for execution at a specific time is also available to developers. 
+
+ 
+
+ 
+
+Limitations of Process Builder 
+
+ 
+
+Only one of the objects you designated as the starting object is relevant to each Process Builder. 
+
+When the triggering item is in place, you can only employ child objects in relation to it. 
+
+No records can be deleted 
+
+Cannot perform more complicated actions 
+
+In the process builder, actions are evaluated according to their appearance.
